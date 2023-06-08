@@ -1,3 +1,4 @@
+// App JS 
 // Select the search button element
 const searchButton = document.querySelector(".button1");
 
