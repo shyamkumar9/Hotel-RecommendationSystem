@@ -1,0 +1,1310 @@
+assigned_cluster,Hotel_Name,Average_Score,confidence_score
+Amenities,NH Danube City,4.2,0.17045454409989444
+Amenities,Barcel Milan,4.05,0.1577940389959464
+Amenities,Novotel Suites Paris Montreuil Vincennes,3.8,0.15778222099818964
+Amenities,Hotel Imlauer Wien,4.25,0.15364875419818796
+Amenities,London Marriott Hotel Kensington,4.0,0.15353021265489078
+Amenities,NH Barcelona Stadium,4.05,0.1528421030173492
+Amenities,Oceania Paris Porte De Versailles,4.1,0.15159938256553865
+Amenities,Eurostars Embassy,4.2,0.15060422120596512
+Amenities,Le Meridien Piccadilly,3.8,0.15021725733725808
+Amenities,AC Hotel Barcelona Forum a Marriott Lifestyle Hotel,4.05,0.15011775036270336
+Amenities,Crowne Plaza Paris R publique,4.0,0.15010984183382403
+Amenities,Vienna Marriott Hotel,4.1,0.1496913992202553
+Amenities,Park Plaza London Park Royal,4.45,0.14944875313048783
+Amenities,IH Hotels Milano Watt 13,3.8,0.14885897757731748
+Amenities,Sofitel Vienna Stephansdom,4.5,0.14840992126847327
+Amenities,Knightsbridge Hotel,4.55,0.14830064240073973
+Amenities,Kensington House Hotel,4.1,0.14802842979724856
+Amenities,NH Amsterdam Zuid,3.9,0.14776828733674569
+Amenities,Hotel Marignan Champs Elys es,4.35,0.14766019277685732
+Amenities,Paddington Court Executive Rooms,3.95,0.1473340482922363
+Amenities,Banke H tel,4.2,0.1472869152383995
+Amenities,Shaftesbury Suites London Marble Arch,4.05,0.14706695117545984
+Amenities,H tel California Champs Elys es,4.1,0.1466903965465361
+Amenities,The Park Tower Knightsbridge a Luxury Collection Hotel,4.1,0.1463125891601922
+Amenities,Fairmont Rey Juan Carlos I,4.15,0.146189891678512
+Amenities,Alma Barcelona GL,4.6,0.14616792882770643
+Amenities,Le Mathurin Hotel Spa,4.3,0.14615462140788224
+Amenities,London Marriott Hotel Grosvenor Square,3.95,0.1456659910817274
+Amenities,Hyatt Regency London The Churchill,4.35,0.145275050837404
+Amenities,H tel Balzac,4.15,0.14507223723961357
+Amenities,NH Amsterdam Museum Quarter,4.0,0.14492925091713457
+Amenities,Grosvenor House A JW Marriott Hotel,3.95,0.14488826213968145
+Amenities,W London Leicester Square,4.2,0.14430521407154545
+Amenities,Bentley London,4.2,0.14428099827090807
+Amenities,NH Wien City,4.2,0.14364321011950143
+Amenities,Hilton Vienna Plaza,4.3,0.14321768637351528
+Amenities,Golden Tulip Opera de Noailles,4.3,0.14315493110745828
+Amenities,Silken Concordia,4.1,0.1431461583428932
+Amenities,InterContinental Paris Le Grand,4.4,0.14308275401457377
+Amenities,London Bridge Hotel,4.35,0.14304670529207664
+Amenities,Vincci Gala,4.45,0.1426765233105362
+Amenities,Rainers Hotel Vienna,4.1,0.14266232034343265
+Amenities,The Westin Palace,4.25,0.14252329516809248
+Amenities,Onix Liceo,4.05,0.14251987252023773
+Amenities,The Arch London,4.55,0.1422463536780361
+Amenities,FourSide Hotel Vienna City Center,4.05,0.14216542781758423
+Amenities,H tel des Champs Elys es,4.2,0.14197559778297883
+Amenities,Novotel London Waterloo,4.1,0.14194834088134087
+Amenities,Hotel Principe Di Savoia,4.55,0.1418224413356649
+Amenities,Karma Sanctum Soho Hotel,4.05,0.14171266376601063
+Amenities,Eurostars Bcn Design,4.15,0.14167322269146537
+Amenities,Hotel Am Konzerthaus Vienna MGallery by Sofitel,4.3,0.1416470405361142
+Amenities,Grand Hotel Wien,4.5,0.14153562901103844
+Amenities,The Mirror Barcelona,4.3,0.1412683111941362
+Amenities,Petit Palace Barcelona,3.95,0.14091066261484253
+Amenities,Threadneedles Autograph Collection,4.4,0.1408597906858995
+Amenities,Imperial Riding School Renaissance Vienna Hotel,4.05,0.14069754314734673
+Amenities,Hotel Mademoiselle,4.3,0.14067390169420171
+Amenities,Hotel Barcelona Center,4.2,0.14062017709720506
+Amenities,The Colonnade,3.9,0.14050218384391777
+Amenities,Hotel Topazz,4.35,0.14048549473581254
+Amenities,The Dorchester Dorchester Collection,4.55,0.14033824252827864
+Amenities,Grange Langham Court Hotel,3.95,0.14022433917171673
+Amenities,La Suite West Hyde Park,4.0,0.13986256583308254
+Amenities,The Justin James Hotel,4.15,0.13970492655824485
+Amenities,Best Western Hotel St George,4.05,0.1397038043920282
+Amenities,Tryp Barcelona Apolo Hotel,3.9,0.13959972373824364
+Amenities,Courthouse Hotel Shoreditch,4.45,0.13926071441889648
+Amenities,H10 Casanova,4.3,0.13878745163942033
+Amenities,Waldorf Madeleine,4.2,0.13875575422249578
+Amenities,H tel Diva Opera,4.15,0.1385898091586293
+Amenities,Chateau Frontenac,4.25,0.13846290277100978
+Amenities,Hotel Grums Barcelona,4.15,0.13844638245912322
+Amenities,The Pelham Starhotels Collezione,4.3,0.13840790193531063
+Amenities,Boscolo Milano Autograph Collection,3.95,0.13839747410222045
+Amenities,Hotel Miramar Barcelona GL,4.35,0.1383834042135728
+Amenities,NH London Kensington,4.1,0.1382869159942085
+Amenities,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,4.2,0.13811541867317434
+Amenities,Mercure Hotel Amsterdam Centre Canal District,4.1,0.13810904942175117
+Amenities,Ohla Eixample,4.55,0.13802761483139359
+Amenities,Palais Hansen Kempinski Vienna,4.6,0.13793985874922665
+Amenities,W Amsterdam,4.2,0.13775169978883708
+Amenities,Novotel Paris Centre Bercy,4.15,0.13774619911145347
+Amenities,The Athenaeum,4.05,0.13774017026107122
+Amenities,The Academy,3.9,0.13772998942999296
+Amenities,NH Amsterdam Caransa,3.95,0.1377051087816293
+Amenities,The Lodge Hotel Putney,4.1,0.13768252717807428
+Amenities,Ashburn Hotel,4.3,0.13765223193639925
+Amenities,Golden Tulip Bercy Gare de Lyon 209,4.35,0.13753352617928497
+Amenities,Mercure Paris Montmartre Sacr Coeur,4.2,0.13729819358703804
+Amenities,Thistle Hyde Park,3.9,0.13720305629868518
+Amenities,Sofitel Legend The Grand Amsterdam,4.6,0.13717677336565023
+Amenities,H tel Juliana Paris,4.3,0.13717092531271655
+Amenities,Ch teau Monfort Relais Ch teaux,4.5,0.13700670937814813
+Amenities,The Park City Grand Plaza Kensington Hotel,4.15,0.13700458655503475
+Amenities,Condes de Barcelona,4.35,0.1367161230175926
+Amenities,H tel Beauchamps,4.05,0.13664325515900644
+Amenities,Senator Hotel Vienna,4.05,0.13642950606674456
+Amenities,Eccleston Square Hotel,4.25,0.13630199516745914
+Amenities,Catalonia Diagonal Centro,4.05,0.1361208728614492
+Amenities,The Cleveland,4.1,0.13572542351652403
+Amenities,Acad mie H tel Saint Germain,4.5,0.13563777883354483
+Amenities,Qualys Hotel Nasco,4.1,0.13543765198344646
+Amenities,Best Western S vres Montparnasse,3.9,0.13532437567067904
+Amenities,Sydney House Chelsea,4.35,0.13530403019892506
+Amenities,Novotel Paris Centre Gare Montparnasse,4.05,0.13529062477715412
+Amenities,Best Western Bretagne Montparnasse,3.85,0.1351766082080613
+Amenities,The Beaufort,4.4,0.13496543800554853
+Amenities,Avo Hotel,4.05,0.1349541631285425
+Amenities,The Westbury A Luxury Collection Hotel Mayfair London,4.1,0.13493445905619186
+Amenities,Claridge s,4.65,0.1348684855398942
+Amenities,Royal Hotel Champs Elys es,3.95,0.13485110837303793
+Amenities,The Laslett,4.45,0.1346810965542296
+Amenities,Novotel Barcelona City,4.2,0.13463966338782907
+Amenities,Hotel Ambassador,4.15,0.13450608044177245
+Amenities,Holiday Inn Amsterdam Arena Towers,4.2,0.13448905551773224
+Amenities,Au Manoir Saint Germain,4.3,0.1344137250825344
+Amenities,Hotel Claridge Paris,4.05,0.13439541191349255
+Amenities,The Stafford London,4.55,0.13429259473914568
+Amenities,Ten Manchester Street Hotel,4.4,0.13427969447152036
+Amenities,Hotel Am Schubertring,4.1,0.1342612744438859
+Amenities,Catalonia La Pedrera,4.2,0.13413301132741556
+Amenities,Forest Hill Paris la Villette,3.8,0.13407277753278865
+Amenities,Montfleuri,4.1,0.13402273119200137
+Amenities,The College Hotel,4.15,0.13401627411165778
+Amenities,Hilton Amsterdam,4.15,0.13400410779639624
+Amenities,Carlyle Brera Hotel,4.1,0.13392443460629408
+Amenities,Enterprise Hotel Design Boutique,4.25,0.1338873481199403
+Amenities,Le Marceau Bastille,4.3,0.13388231121160568
+Amenities,Catalonia Rigoletto,4.3,0.13386710356738957
+Amenities,Sofitel Paris Arc De Triomphe,4.4,0.13380821389007944
+Amenities,NH Collection Barcelona Gran Hotel Calder n,4.4,0.13380073188537203
+Amenities,U232 Hotel,4.35,0.13374245503394053
+Amenities,Crowne Plaza Amsterdam South,4.5,0.13366882995621968
+Amenities,Le Burgundy Paris,4.55,0.13349966384203102
+Amenities,Albus Hotel Amsterdam City Centre,4.1,0.13343254157475062
+Amenities,Hotel Odeon Saint Germain,4.3,0.13338638565365776
+Amenities,Hotel Pulitzer Paris,4.2,0.13334825517106422
+Amenities,11 Cadogan Gardens,4.35,0.13325648434057144
+Amenities,Adria Boutique Hotel,4.4,0.1332050214450791
+Amenities,Staunton Hotel B B,4.15,0.13317666409608292
+Amenities,Cram,4.25,0.13294287613718375
+Amenities,Best Western Premier Faubourg 88,4.2,0.13287033784270713
+Amenities,Hotel Ares Eiffel,4.4,0.13273166702783434
+Amenities,Best Western Hotel Pension Arenberg Wien Zentrum,3.85,0.13272156388211262
+Amenities,Hotel Lam e,4.35,0.13256831329848484
+Amenities,Hotel Xenia Autograph Collection,4.5,0.13255170240565722
+Amenities,Sixtytwo Hotel,4.6,0.1324496387762943
+Amenities,NH Collection Barcelona Constanza,4.35,0.13235702524340556
+Amenities,Pullman Paris Montparnasse,4.05,0.1323512860123442
+Amenities,Hotel Barcelona Universal,4.4,0.132245075435498
+Amenities,The Cranley Hotel,3.9,0.13223739606892723
+Amenities,Hotel Auriga,4.1,0.132130707839829
+Amenities,Residence Du Roy,4.2,0.13209145756491142
+Amenities,Acca Palace,4.25,0.13206633383907995
+Amenities,NH Wien Belvedere,4.2,0.13206357663430737
+Amenities,H tel Etoile Saint Honor by Happyculture,4.1,0.13178918445023202
+Amenities,Napoleon Paris,4.25,0.13175933560980355
+Amenities,InterContinental London Park Lane,4.25,0.13169466090949963
+Amenities,Andaz Amsterdam Prinsengracht A Hyatt Hotel,4.65,0.13169056905604598
+Amenities,H tel Mathis Elys es,4.35,0.1315801152845959
+Amenities,Castille Paris Starhotels Collezione,4.35,0.13152288522151795
+Amenities,Les Jardins Du Marais,4.05,0.13144010935566391
+Amenities,9Hotel Republique,4.4,0.1314090117417751
+Amenities,Nottingham Place Hotel,4.1,0.13137740997152345
+Amenities,Mercure London Hyde Park,4.3,0.13118205655237003
+Amenities,The Hari London,4.6,0.13106781041239066
+Amenities,Phileas Hotel,4.35,0.13101323192257958
+Amenities,Novotel Paris Vaugirard Montparnasse,3.8,0.1309406642009378
+Amenities,Pullman Barcelona Skipper,4.3,0.1309081423570297
+Amenities,Hotel Casa Fuster G L Monumento,4.5,0.13090230267876413
+Amenities,Best Western Premier Louvre Saint Honor ,4.05,0.1308304930220924
+Amenities,The Sumner Hotel,4.25,0.13066143978348388
+Amenities,H tel Horset Op ra Best Western Premier Collection,4.25,0.13045307682088983
+Amenities,H tel Baume,4.5,0.13044072797682976
+Amenities,Select Hotel,4.45,0.13043969626820773
+Amenities,Duquesa Suites Barcelona,4.55,0.13037576645183527
+Amenities,DO CO Hotel Vienna,4.5,0.1303529147368197
+Amenities,Silken Gran Hotel Havana,4.25,0.13035002994843073
+Amenities,The Gates Diagonal Barcelona,4.0,0.13030043600296848
+Amenities,Pullman Paris Centre Bercy,4.35,0.13018654429015675
+Amenities,The Victoria,4.15,0.13007690689445905
+Amenities,The Ring Vienna s Casual Luxury Hotel,4.5,0.13004113126559103
+Amenities,Radisson Blu Style Hotel Vienna,4.2,0.13003104317821493
+Amenities,Attica 21 Barcelona Mar,4.05,0.12984203107617678
+Amenities,Hotel du Louvre in the Unbound Collection by Hyatt,4.15,0.12971056035974704
+Amenities,Novotel Wien City,4.05,0.12966812254467824
+Amenities,Elys es R gencia,4.1,0.1296586575401828
+Amenities,UNA Hotel Cusani,4.4,0.12959524599507433
+Amenities,Novotel Suites Paris Expo Porte de Versailles,4.4,0.12949185606753746
+Amenities,Hotel Amsterdam De Roode Leeuw,3.95,0.12944030661512052
+Amenities,H tel Duo,4.3,0.12941164258996482
+Amenities,Mercure Wien Zentrum,4.15,0.1293434789002239
+Amenities,H tel Powers,4.25,0.12913899084115166
+Amenities,Grange White Hall Hotel,3.95,0.12904157042382347
+Amenities,H tel D Aubusson,4.7,0.1289992550095421
+Amenities,Luxury Suites Amsterdam,4.65,0.12891707809778705
+Amenities,Holiday Inn Amsterdam,3.85,0.12885304211858964
+Amenities,NYX Milan,4.4,0.1287692107398602
+Amenities,Courtyard by Marriott Vienna Prater Messe,4.35,0.12875839800456593
+Amenities,H10 Universitat,4.25,0.12872360682652464
+Amenities,H tel Brighton Esprit de France,4.35,0.12870580228056314
+Amenities,Hotel le Lapin Blanc,4.55,0.1286987598909619
+Amenities,Claris Hotel Spa GL,4.3,0.12867210078663358
+Amenities,Hotel Alimara,4.05,0.12861904902263635
+Amenities,Villa Panth on,4.05,0.12827956478553576
+Amenities,Hotel Marconi,4.15,0.12816686045857512
+Amenities,Terrass H tel Montmartre by MH,4.5,0.12815290872006604
+Amenities,Duquesa de Cardona,4.45,0.1280289530710057
+Amenities,Gardette Park Hotel,4.1,0.12793526271877878
+Amenities,Best Western Hotel City,4.2,0.1277107993979448
+Amenities,The Rookery,4.55,0.1276796196627468
+Amenities,Monument Hotel,4.65,0.12758611531118233
+Amenities,Amp re,4.4,0.12754126548384428
+Amenities,Le Cinq Codet,4.5,0.12745550257195903
+Amenities,Royal Saint Michel,4.0,0.1273442320680344
+Amenities,Hotel Milano Scala,4.4,0.1273210068478487
+Amenities,Mercure Hotel Raphael Wien,4.25,0.12727974830408942
+Amenities,Crowne Plaza London The City,4.3,0.12727642223348457
+Amenities,Hotel Moonlight,4.5,0.12725088139114116
+Amenities,Hotel d Orsay Esprit de France,4.55,0.1269176258974768
+Amenities,Hotel Roemer Amsterdam,4.15,0.12672860839067876
+Amenities,Gallery Hotel,4.55,0.12669498970785037
+Amenities,Newhotel Roblin,4.4,0.12667472254119103
+Amenities,Grange Blooms Hotel,4.15,0.12665969830249169
+Amenities,Edouard 7 Paris Op ra,4.55,0.12660848679350892
+Amenities,Best Western Premier Marais Grands Boulevards,4.15,0.12653530394854043
+Amenities,Mill sime H tel,4.65,0.12640289667514762
+Amenities,Holiday Inn Paris Saint Germain des Pr s,4.05,0.1256057186220079
+Amenities,Hotel Domizil,4.45,0.12552964501627387
+Amenities,Gran Hotel La Florida,4.35,0.1252964435610816
+Amenities,Hotel Park Lane Paris,4.35,0.12526192555065313
+Amenities,Hotel Les Bulles De Paris,4.1,0.12525715121489636
+Amenities,H tel du Minist re,4.4,0.12509754129508904
+Amenities,Hazlitt s,4.5,0.1250823979049578
+Amenities,The Westbourne Hyde Park,4.45,0.12494569300608142
+Amenities,The Soho Hotel,4.75,0.1249232304869903
+Amenities,H tel Gustave,4.4,0.12486066743172028
+Amenities,Hotel Galileo,3.95,0.12482915915061885
+Amenities,Fleming s Conference Hotel Wien,4.25,0.1245387183209601
+Amenities,Hotel Duminy Vendome,4.1,0.12444870109141346
+Amenities,Le Relais Montmartre,4.65,0.12443370419074246
+Amenities,Hilton London Hyde Park,3.9,0.12436664803750579
+Amenities,Grand H tel Du Palais Royal,4.6,0.12400697489898238
+Amenities,Hotel Indigo London Paddington,4.35,0.12381267948196384
+Amenities,Westside Arc de Triomphe Hotel,4.05,0.12371382436331141
+Amenities,Villa Beaumarchais,4.05,0.12369200496404092
+Amenities,Camperio House Suites Apartments,4.45,0.12368364460730148
+Amenities,AZIMUT Hotel Vienna,4.1,0.12357728903623463
+Amenities,Element Amsterdam,4.45,0.12344013181442183
+Amenities,Hotel Op ra Richepanse,4.6,0.12341980845864191
+Amenities,The Guesthouse Vienna,4.7,0.12337385283459376
+Amenities,The Ned,4.65,0.12290618652847748
+Amenities,Best Western Nouvel Orl ans Montparnasse,4.05,0.12275057314205542
+Amenities,Pertschy Palais Hotel,4.05,0.12256544617774673
+Amenities,COQ Hotel Paris,4.5,0.12227961873557543
+Amenities,Chambiges Elys es,4.45,0.12216794372354416
+Amenities,Hotel Monsieur,4.5,0.12173760195375408
+Amenities,Pulitzer Amsterdam,4.55,0.1216904576297025
+Amenities,K K Palais Hotel,4.3,0.12155218616374447
+Amenities,Room Mate Anna,4.55,0.12147895465025992
+Amenities,Catalonia Port,4.4,0.12119635660077059
+Amenities,Hotel Villa Emilia,4.55,0.1210433789641196
+Amenities,Hotel L Antoine,4.45,0.12101916851586984
+Amenities,The Harmonie Vienna,4.6,0.12099356216020421
+Amenities,The Chess Hotel,4.35,0.12096771426543361
+Amenities,Suites H tel Helzear Champs Elys es,4.1,0.12082793053442943
+Amenities,The Zetter Hotel,4.45,0.12019244379838084
+Amenities,H tel Exquis by Elegancia,4.45,0.12009673424597893
+Amenities,Staybridge Suites London Vauxhall,4.6,0.12001559859173672
+Amenities,Aparthotel Atenea Barcelona,4.0,0.11963840159750036
+Amenities,Mercure Grand Hotel Biedermeier Wien,4.2,0.11962412910251291
+Amenities,Hotel Sans Souci Wien,4.7,0.11933270366825675
+Amenities,Andreola Central Hotel,4.15,0.11929400318118005
+Amenities,L Hotel Pergol se Paris,4.1,0.11927401343425577
+Amenities,Room Mate Carla,4.45,0.11922322040283187
+Amenities,Best Western Premier Kapital Op ra,4.45,0.11899297076675859
+Amenities,Hotel Trianon Rive Gauche,4.1,0.11889573194576973
+Amenities,Falkensteiner Hotel Wien Margareten,4.45,0.11872459596384893
+Amenities,Eurostars Monumental,4.15,0.11796570839233649
+Amenities,Relais H tel du Vieux Paris,4.45,0.11793568216275865
+Amenities,Aparthotel Arai 4 Superior,4.65,0.11786911653441039
+Amenities,H tel Aiglon Esprit de France,4.45,0.11762088788050164
+Amenities,Hotel Eug ne en Ville,4.15,0.11733677973384563
+Amenities,The Yard Milano,4.6,0.11691415469201183
+Amenities,Das Opernring Hotel,4.45,0.11636849718387372
+Amenities,IH Hotels Milano Puccini,3.8,0.11622234566198536
+Amenities,Residence Henri IV,4.55,0.11596066063258026
+Amenities,Canal House,4.65,0.1157884945773644
+Amenities,Hotel Parc Saint Severin Esprit de France,4.55,0.11555956495657681
+Amenities,Hotel Bachaumont,4.4,0.11526464543810648
+Amenities,Grand Hotel Saint Michel,4.4,0.11456238141737002
+Amenities,Der Wilhelmshof,4.4,0.11431440999421529
+Amenities,Alma Boutique Hotel,4.35,0.11340866768480681
+Amenities,Saint SHERMIN bed breakfast champagne,4.5,0.11313400647146984
+Amenities,Hotel Atmospheres,4.35,0.1130303311295262
+Amenities,London Marriott Hotel County Hall,4.25,0.11261140853989501
+Amenities,Appartement Hotel an der Riemergasse,4.6,0.11120779360125091
+Amenities,Hotel The Serras,4.8,0.11115729535857047
+Amenities,Sina De La Ville,4.1,0.10998062026766381
+Amenities,Hotel K nig von Ungarn,4.65,0.10885974392378532
+Amenities,Small Luxury Hotel Altstadt Vienna,4.65,0.10863285250562912
+Amenities,Hotel Beethoven Wien,4.45,0.10442522941618089
+Food,Hotel Mademoiselle,4.3,0.25
+Food,Le Cinq Codet,4.5,0.25
+Food,Le Marceau Bastille,4.3,0.25
+Food,Mercure Grand Hotel Biedermeier Wien,4.2,0.25
+Food,Montfleuri,4.1,0.25
+Food,NH London Kensington,4.1,0.25
+Food,Sydney House Chelsea,4.35,0.25
+Food,NH Wien Belvedere,4.2,0.225
+Food,Novotel Paris Centre Bercy,4.15,0.225
+Food,Edouard 7 Paris Op ra,4.55,0.21666666666666667
+Food,Threadneedles Autograph Collection,4.4,0.20833333333333331
+Food,9Hotel Republique,4.4,0.2
+Food,Boscolo Milano Autograph Collection,3.95,0.2
+Food,Carlyle Brera Hotel,4.1,0.2
+Food,Ch teau Monfort Relais Ch teaux,4.5,0.2
+Food,Grange White Hall Hotel,3.95,0.2
+Food,Hotel Galileo,3.95,0.2
+Food,Hotel Imlauer Wien,4.25,0.2
+Food,Novotel Paris Centre Gare Montparnasse,4.05,0.2
+Food,Novotel Wien City,4.05,0.2
+Food,Saint SHERMIN bed breakfast champagne,4.5,0.2
+Food,Small Luxury Hotel Altstadt Vienna,4.65,0.2
+Food,The Cleveland,4.1,0.2
+Food,UNA Hotel Cusani,4.4,0.2
+Food,The Ring Vienna s Casual Luxury Hotel,4.5,0.1976190476190476
+Food,Eurostars Bcn Design,4.15,0.18055555555555555
+Food,Novotel Suites Paris Expo Porte de Versailles,4.4,0.17499999925494195
+Food,Hotel Barcelona Universal,4.4,0.1722222222222222
+Food,H tel Powers,4.25,0.17142857142857143
+Food,Hotel Ambassador,4.15,0.17142857142857143
+Food,Royal Saint Michel,4.0,0.17142857142857143
+Food,Canal House,4.65,0.17045454545454547
+Food,Phileas Hotel,4.35,0.16984126984126982
+Food,H tel Aiglon Esprit de France,4.45,0.16666666666666666
+Food,H10 Casanova,4.3,0.16666666666666666
+Food,IH Hotels Milano Puccini,3.8,0.1625
+Food,Grand Hotel Wien,4.5,0.16071428784302302
+Food,Holiday Inn Amsterdam Arena Towers,4.2,0.15624999813735485
+Food,Residence Du Roy,4.2,0.15315934123246225
+Food,Hotel Parc Saint Severin Esprit de France,4.55,0.1527777777777778
+Food,The Yard Milano,4.6,0.15000000000000002
+Food,Hotel Barcelona Center,4.2,0.14583333333333331
+Food,Hotel Claridge Paris,4.05,0.14583333333333331
+Food,Aparthotel Atenea Barcelona,4.0,0.14285714285714285
+Food,Courtyard by Marriott Vienna Prater Messe,4.35,0.14285714285714285
+Food,DO CO Hotel Vienna,4.5,0.14285714285714285
+Food,Eccleston Square Hotel,4.25,0.14285714285714285
+Food,Forest Hill Paris la Villette,3.8,0.14285714285714285
+Food,Gardette Park Hotel,4.1,0.14285714285714285
+Food,Grosvenor House A JW Marriott Hotel,3.95,0.14285714285714285
+Food,Hyatt Regency London The Churchill,4.35,0.14285714285714285
+Food,Knightsbridge Hotel,4.55,0.14285714285714285
+Food,Mercure Hotel Amsterdam Centre Canal District,4.1,0.14285714285714285
+Food,Mercure London Hyde Park,4.3,0.14285714285714285
+Food,Nottingham Place Hotel,4.1,0.14285714285714285
+Food,Pullman Paris Centre Bercy,4.35,0.14285714285714285
+Food,Select Hotel,4.45,0.14285714285714285
+Food,The Beaufort,4.4,0.14285714285714285
+Food,Tryp Barcelona Apolo Hotel,3.9,0.1402116402116402
+Food,H tel Horset Op ra Best Western Premier Collection,4.25,0.1397058826597298
+Food,Newhotel Roblin,4.4,0.13863636453946432
+Food,The Guesthouse Vienna,4.7,0.1351190469981659
+Food,Hotel Villa Emilia,4.55,0.1349206349206349
+Food,Chateau Frontenac,4.25,0.13392857142857142
+Food,Elys es R gencia,4.1,0.13392857142857142
+Food,Sofitel Paris Arc De Triomphe,4.4,0.13392857142857142
+Food,Hotel Milano Scala,4.4,0.13356643402493082
+Food,Villa Beaumarchais,4.05,0.13333333631356556
+Food,NH Amsterdam Caransa,3.95,0.13232323202219876
+Food,Monument Hotel,4.65,0.13227513227513227
+Food,IH Hotels Milano Watt 13,3.8,0.1304563492063492
+Food,The Lodge Hotel Putney,4.1,0.12878787607857675
+Food,W Amsterdam,4.2,0.12698412698412698
+Food,Gallery Hotel,4.55,0.12673611017978853
+Food,Golden Tulip Opera de Noailles,4.3,0.12666666607062022
+Food,Andaz Amsterdam Prinsengracht A Hyatt Hotel,4.65,0.125
+Food,Appartement Hotel an der Riemergasse,4.6,0.125
+Food,Best Western Premier Kapital Op ra,4.45,0.125
+Food,Eurostars Embassy,4.2,0.125
+Food,H tel des Champs Elys es,4.2,0.125
+Food,Hotel Park Lane Paris,4.35,0.125
+Food,London Marriott Hotel County Hall,4.25,0.125
+Food,Napoleon Paris,4.25,0.125
+Food,The Park Tower Knightsbridge a Luxury Collection Hotel,4.1,0.125
+Food,The Stafford London,4.55,0.125
+Food,Vienna Marriott Hotel,4.1,0.125
+Food,Hotel Sans Souci Wien,4.7,0.12333333373069763
+Food,H tel du Minist re,4.4,0.12289562108942154
+Food,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,4.2,0.12152777777777778
+Food,Hilton London Hyde Park,3.9,0.12142857440880367
+Food,Le Burgundy Paris,4.55,0.12142857142857143
+Food,L Hotel Pergol se Paris,4.1,0.12053571428571427
+Food,Best Western Premier Marais Grands Boulevards,4.15,0.11958874458874458
+Food,The Pelham Starhotels Collezione,4.3,0.11904761798325039
+Food,AC Hotel Barcelona Forum a Marriott Lifestyle Hotel,4.05,0.11805555555555555
+Food,Ashburn Hotel,4.3,0.11805555555555555
+Food,Silken Gran Hotel Havana,4.25,0.11805555555555555
+Food,Shaftesbury Suites London Marble Arch,4.05,0.11688311552846586
+Food,Hilton Vienna Plaza,4.3,0.11484593837535013
+Food,Onix Liceo,4.05,0.1112200795306103
+Food,Claridge s,4.65,0.1111111111111111
+Food,Duquesa Suites Barcelona,4.55,0.1111111111111111
+Food,Hotel Casa Fuster G L Monumento,4.5,0.1111111111111111
+Food,NYX Milan,4.4,0.1111111111111111
+Food,Petit Palace Barcelona,3.95,0.1111111111111111
+Food,Silken Concordia,4.1,0.1111111111111111
+Food,The Chess Hotel,4.35,0.1111111111111111
+Food,Catalonia Port,4.4,0.1111111104902294
+Food,Hotel Bachaumont,4.4,0.10849673144178452
+Food,Ohla Eixample,4.55,0.10687830621603304
+Food,Hotel Moonlight,4.5,0.10648148148148147
+Food,Hotel The Serras,4.8,0.10644841356074841
+Food,U232 Hotel,4.35,0.10590277762255734
+Food,Duquesa de Cardona,4.45,0.10426392779333955
+Food,Castille Paris Starhotels Collezione,4.35,0.1041666641831398
+Food,Hotel Auriga,4.1,0.103125
+Food,Das Opernring Hotel,4.45,0.10255183178034316
+Food,The Westin Palace,4.25,0.10227272727272728
+Food,Hotel Am Konzerthaus Vienna MGallery by Sofitel,4.3,0.1
+Food,La Suite West Hyde Park,4.0,0.1
+Food,Waldorf Madeleine,4.2,0.1
+Food,Kensington House Hotel,4.1,0.09999999701976776
+Food,Hotel Principe Di Savoia,4.55,0.0988095238095238
+Food,Andreola Central Hotel,4.15,0.09722222222222221
+Food,Hotel Grums Barcelona,4.15,0.09697420634920634
+Food,Condes de Barcelona,4.35,0.09651919909506512
+Food,Au Manoir Saint Germain,4.3,0.09624756341092071
+Food,Aparthotel Arai 4 Superior,4.65,0.09401709516333719
+Food,Pertschy Palais Hotel,4.05,0.09375
+Food,Fairmont Rey Juan Carlos I,4.15,0.09305555555555556
+Food,Hotel Marconi,4.15,0.0926003355944037
+Food,Best Western S vres Montparnasse,3.9,0.09166666666666667
+Food,Oceania Paris Porte De Versailles,4.1,0.09090909361839294
+Food,H tel Exquis by Elegancia,4.45,0.09090909090909091
+Food,Hotel Indigo London Paddington,4.35,0.09090909090909091
+Food,The Hari London,4.6,0.09090909090909091
+Food,W London Leicester Square,4.2,0.09090909090909091
+Food,Falkensteiner Hotel Wien Margareten,4.45,0.09090908549048683
+Food,Sofitel Legend The Grand Amsterdam,4.6,0.09090908549048683
+Food,The Mirror Barcelona,4.3,0.09090908549048683
+Food,Hotel Miramar Barcelona GL,4.35,0.0895833320915699
+Food,Eurostars Monumental,4.15,0.08928571322134563
+Food,Hotel Atmospheres,4.35,0.08897243055484648
+Food,Gran Hotel La Florida,4.35,0.08777605268649186
+Food,H tel Mathis Elys es,4.35,0.08712121212121213
+Food,Catalonia Diagonal Centro,4.05,0.08680555555555555
+Food,Hotel Beethoven Wien,4.45,0.08675213675213676
+Food,Westside Arc de Triomphe Hotel,4.05,0.0863095230999447
+Food,Best Western Hotel City,4.2,0.0863095223903656
+Food,Best Western Bretagne Montparnasse,3.85,0.08333333333333333
+Food,Hotel Odeon Saint Germain,4.3,0.08333333333333333
+Food,Luxury Suites Amsterdam,4.65,0.08333333333333333
+Food,Hotel K nig von Ungarn,4.65,0.08321308230998253
+Food,Golden Tulip Bercy Gare de Lyon 209,4.35,0.08235867446393762
+Food,Pullman Paris Montparnasse,4.05,0.08119657966825697
+Food,Hilton Amsterdam,4.15,0.08012820636996856
+Food,Novotel London Waterloo,4.1,0.07878788176811102
+Food,The Gates Diagonal Barcelona,4.0,0.07806513395403081
+Food,H tel Beauchamps,4.05,0.07777777694993548
+Food,Claris Hotel Spa GL,4.3,0.07738094989742551
+Food,Villa Panth on,4.05,0.07692307921556327
+Food,Fleming s Conference Hotel Wien,4.25,0.07692307692307693
+Food,Novotel Paris Vaugirard Montparnasse,3.8,0.07692307692307693
+Food,Royal Hotel Champs Elys es,3.95,0.07692307692307693
+Food,InterContinental Paris Le Grand,4.4,0.07692307463059059
+Food,Novotel Suites Paris Montreuil Vincennes,3.8,0.0767045435919003
+Food,Crowne Plaza Amsterdam South,4.5,0.07638889013065232
+Food,Sixtytwo Hotel,4.6,0.07284080238993706
+Food,Room Mate Carla,4.45,0.07267399227226173
+Food,Hotel Monsieur,4.5,0.07142857142857142
+Food,Mill sime H tel,4.65,0.07142857142857142
+Food,Hotel Ares Eiffel,4.4,0.07142856929983411
+Food,Paddington Court Executive Rooms,3.95,0.07142856823546545
+Food,Vincci Gala,4.45,0.07142856504235949
+Food,Der Wilhelmshof,4.4,0.06805555648687812
+Food,H10 Universitat,4.25,0.06786786764972023
+Food,Crowne Plaza London The City,4.3,0.0633116891099648
+Food,Hotel Op ra Richepanse,4.6,0.0624999962747097
+Food,NH Wien City,4.2,0.05882353291792028
+Food,Ten Manchester Street Hotel,4.4,0.05882352590560913
+Food,Grand H tel Du Palais Royal,4.6,0.056250000931322576
+Food,Pulitzer Amsterdam,4.55,0.05555555886692471
+Food,Best Western Nouvel Orl ans Montparnasse,4.05,0.055555557211240135
+Food,Senator Hotel Vienna,4.05,0.05555555389987098
+Food,Sofitel Vienna Stephansdom,4.5,0.0555555522441864
+Food,H tel D Aubusson,4.7,0.052631580515911706
+Food,Hotel L Antoine,4.45,0.05263157894736842
+Food,NH Collection Barcelona Gran Hotel Calder n,4.4,0.052631575810281855
+Food,The Harmonie Vienna,4.6,0.05
+Food,Best Western Hotel St George,4.05,0.04999999850988388
+Food,Attica 21 Barcelona Mar,4.05,0.047252711780180784
+Food,The Colonnade,3.9,0.04545454680919647
+Food,Novotel Barcelona City,4.2,0.043478260869565216
+Food,Catalonia Rigoletto,4.3,0.04166667039195696
+Food,Banke H tel,4.2,0.04
+Food,H tel Brighton Esprit de France,4.35,0.038461538461538464
+Food,Best Western Premier Louvre Saint Honor ,4.05,0.03225806451612903
+Food,Palais Hansen Kempinski Vienna,4.6,0.031249998603016138
+Food,Catalonia La Pedrera,4.2,0.023809523454734256
+Location,Hotel Am Konzerthaus Vienna MGallery by Sofitel,4.3,0.21875
+Location,Grange Blooms Hotel,4.15,0.20833333333333331
+Location,Courtyard by Marriott Vienna Prater Messe,4.35,0.20238095238095238
+Location,Chambiges Elys es,4.45,0.19642857142857142
+Location,Claridge s,4.65,0.1875
+Location,The Yard Milano,4.6,0.1875
+Location,Hotel le Lapin Blanc,4.55,0.18636363636363637
+Location,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,4.2,0.17708333333333331
+Location,Hotel Ambassador,4.15,0.17559523809523808
+Location,Sixtytwo Hotel,4.6,0.17013888930281004
+Location,Hotel Amsterdam De Roode Leeuw,3.95,0.1691919191919192
+Location,Hotel Villa Emilia,4.55,0.16875
+Location,Acca Palace,4.25,0.1654040404040404
+Location,H tel du Minist re,4.4,0.16319444444444445
+Location,Best Western Premier Louvre Saint Honor ,4.05,0.16129476602084053
+Location,Best Western Hotel St George,4.05,0.1607142857142857
+Location,Novotel Paris Vaugirard Montparnasse,3.8,0.15984848484848485
+Location,The Mirror Barcelona,4.3,0.15849673202614378
+Location,The Victoria,4.15,0.15833333333333333
+Location,Grosvenor House A JW Marriott Hotel,3.95,0.15814393803928836
+Location,Qualys Hotel Nasco,4.1,0.15799663283608176
+Location,Saint SHERMIN bed breakfast champagne,4.5,0.15773809497200306
+Location,Hotel Atmospheres,4.35,0.15754902008117413
+Location,COQ Hotel Paris,4.5,0.15654345725303564
+Location,Novotel Suites Paris Montreuil Vincennes,3.8,0.15404965432560147
+Location,Andaz Amsterdam Prinsengracht A Hyatt Hotel,4.65,0.1522222222222222
+Location,Banke H tel,4.2,0.15067340067340065
+Location,DO CO Hotel Vienna,4.5,0.15029761904761904
+Location,Golden Tulip Bercy Gare de Lyon 209,4.35,0.14938375385201613
+Location,Novotel Paris Centre Bercy,4.15,0.1486319232170928
+Location,Au Manoir Saint Germain,4.3,0.14627192982456141
+Location,Avo Hotel,4.05,0.14623949610135134
+Location,Hotel Bachaumont,4.4,0.14583333333333331
+Location,Shaftesbury Suites London Marble Arch,4.05,0.1446266241465167
+Location,Luxury Suites Amsterdam,4.65,0.1435606067830866
+Location,Paddington Court Executive Rooms,3.95,0.14320162519588284
+Location,Hotel Auriga,4.1,0.1425865804591091
+Location,FourSide Hotel Vienna City Center,4.05,0.1417176573947593
+Location,Karma Sanctum Soho Hotel,4.05,0.1416666666666667
+Location,Best Western Bretagne Montparnasse,3.85,0.14013248716926865
+Location,Thistle Hyde Park,3.9,0.13995159946457303
+Location,Vincci Gala,4.45,0.13970588235294118
+Location,Hazlitt s,4.5,0.13919082168795635
+Location,Imperial Riding School Renaissance Vienna Hotel,4.05,0.13787878749174473
+Location,H tel Horset Op ra Best Western Premier Collection,4.25,0.13749999962747098
+Location,Newhotel Roblin,4.4,0.13729814898703055
+Location,H tel Etoile Saint Honor by Happyculture,4.1,0.1372670807453416
+Location,9Hotel Republique,4.4,0.13722222103012932
+Location,Novotel London Waterloo,4.1,0.13665352562936592
+Location,Holiday Inn Amsterdam Arena Towers,4.2,0.1366141449397393
+Location,L Hotel Pergol se Paris,4.1,0.1360660164346878
+Location,Hotel Lam e,4.35,0.1357075023402063
+Location,The Pelham Starhotels Collezione,4.3,0.13566095685822743
+Location,Fleming s Conference Hotel Wien,4.25,0.13470643985960068
+Location,Crowne Plaza London The City,4.3,0.13425925925925927
+Location,H tel California Champs Elys es,4.1,0.13333333333333333
+Location,AC Hotel Barcelona Forum a Marriott Lifestyle Hotel,4.05,0.13279220794272456
+Location,Hotel Marconi,4.15,0.1327645995230161
+Location,Rainers Hotel Vienna,4.1,0.1316169210906053
+Location,Hotel Galileo,3.95,0.1313810370129505
+Location,Westside Arc de Triomphe Hotel,4.05,0.13113275660580886
+Location,Grange White Hall Hotel,3.95,0.13097828170150583
+Location,H tel Balzac,4.15,0.13093233896463902
+Location,Das Opernring Hotel,4.45,0.13089225630617704
+Location,Gardette Park Hotel,4.1,0.1308760678878537
+Location,Sofitel Vienna Stephansdom,4.5,0.13086219336219335
+Location,Catalonia Port,4.4,0.13050144300144298
+Location,Knightsbridge Hotel,4.55,0.13042929292929292
+Location,Best Western S vres Montparnasse,3.9,0.1304058440387636
+Location,Catalonia Diagonal Centro,4.05,0.13036616203008278
+Location,Alma Boutique Hotel,4.35,0.13026244588744587
+Location,Amp re,4.4,0.12994652441478668
+Location,Pullman Paris Montparnasse,4.05,0.1297099137052485
+Location,InterContinental London Park Lane,4.25,0.12878787878787878
+Location,U232 Hotel,4.35,0.12865800865800864
+Location,H tel Diva Opera,4.15,0.12858937466747342
+Location,W Amsterdam,4.2,0.12847222315354478
+Location,Edouard 7 Paris Op ra,4.55,0.1284722222222222
+Location,Courthouse Hotel Shoreditch,4.45,0.12786412271075426
+Location,Room Mate Carla,4.45,0.12776153345360547
+Location,Element Amsterdam,4.45,0.1274621208565253
+Location,The Park Tower Knightsbridge a Luxury Collection Hotel,4.1,0.12718855218855218
+Location,Attica 21 Barcelona Mar,4.05,0.12638889000647596
+Location,La Suite West Hyde Park,4.0,0.12633720437350707
+Location,Hotel Pulitzer Paris,4.2,0.12624643808841027
+Location,Eurostars Monumental,4.15,0.12613866432958287
+Location,Residence Du Roy,4.2,0.12612068479490995
+Location,Villa Beaumarchais,4.05,0.12514377699375206
+Location,Hotel Trianon Rive Gauche,4.1,0.125
+Location,NH London Kensington,4.1,0.125
+Location,The Soho Hotel,4.75,0.125
+Location,H tel Mathis Elys es,4.35,0.1243161603579438
+Location,W London Leicester Square,4.2,0.12412587246382152
+Location,Pertschy Palais Hotel,4.05,0.12411477578865301
+Location,Condes de Barcelona,4.35,0.12372627393468158
+Location,The Academy,3.9,0.12339743704367906
+Location,Terrass H tel Montmartre by MH,4.5,0.12301587266108346
+Location,Oceania Paris Porte De Versailles,4.1,0.12267359664061848
+Location,Grand Hotel Saint Michel,4.4,0.12264062219750742
+Location,Barcel Milan,4.05,0.12257056733341319
+Location,H tel D Aubusson,4.7,0.12152777815030681
+Location,NH Barcelona Stadium,4.05,0.12145440019838595
+Location,Hotel Roemer Amsterdam,4.15,0.12143122414776017
+Location,Pullman Paris Centre Bercy,4.35,0.1212454217039185
+Location,Hotel Miramar Barcelona GL,4.35,0.12094155844155843
+Location,Hotel Principe Di Savoia,4.55,0.12084859622157973
+Location,Hotel Barcelona Center,4.2,0.1204323454141511
+Location,Carlyle Brera Hotel,4.1,0.12035537701815675
+Location,Elys es R gencia,4.1,0.12030482343590623
+Location,UNA Hotel Cusani,4.4,0.11975762546103051
+Location,H tel Juliana Paris,4.3,0.11974206248091326
+Location,Novotel Paris Centre Gare Montparnasse,4.05,0.11946283541854827
+Location,Hotel Topazz,4.35,0.11936005184784503
+Location,The Laslett,4.45,0.11924072665916738
+Location,Park Plaza London Park Royal,4.45,0.11897546897546898
+Location,InterContinental Paris Le Grand,4.4,0.11860021784869156
+Location,NH Amsterdam Museum Quarter,4.0,0.11839659238973968
+Location,H10 Casanova,4.3,0.11837121212121213
+Location,K K Palais Hotel,4.3,0.11831581233408348
+Location,Napoleon Paris,4.25,0.11826599326599326
+Location,H tel Gustave,4.4,0.11797924368882208
+Location,NH Amsterdam Caransa,3.95,0.11779688532653046
+Location,Room Mate Anna,4.55,0.11768954438689758
+Location,Best Western Premier Kapital Op ra,4.45,0.11760463777311472
+Location,Gallery Hotel,4.55,0.11755952411996466
+Location,Hotel Alimara,4.05,0.1174821751949887
+Location,Bentley London,4.2,0.11724537068081121
+Location,11 Cadogan Gardens,4.35,0.11712962989177969
+Location,Hotel Moonlight,4.5,0.1170945062731402
+Location,Threadneedles Autograph Collection,4.4,0.11701940001108449
+Location,Forest Hill Paris la Villette,3.8,0.11688311680248291
+Location,The Gates Diagonal Barcelona,4.0,0.11666666741172473
+Location,Catalonia Rigoletto,4.3,0.11658628899454603
+Location,Silken Gran Hotel Havana,4.25,0.11646224134935389
+Location,Hotel Claridge Paris,4.05,0.1159540696283106
+Location,The Westbury A Luxury Collection Hotel Mayfair London,4.1,0.11593035619351408
+Location,H10 Universitat,4.25,0.11540012252269152
+Location,Mercure Hotel Amsterdam Centre Canal District,4.1,0.11525974073279299
+Location,Radisson Blu Style Hotel Vienna,4.2,0.11523321508227964
+Location,Kensington House Hotel,4.1,0.11517529942754175
+Location,Hotel Indigo London Paddington,4.35,0.11497168462252715
+Location,Holiday Inn Paris Saint Germain des Pr s,4.05,0.11458118621249433
+Location,The Beaufort,4.4,0.1145454539494081
+Location,H tel Beauchamps,4.05,0.11451771258675317
+Location,Cram,4.25,0.11451515199198867
+Location,Hotel Barcelona Universal,4.4,0.11440278560311146
+Location,AZIMUT Hotel Vienna,4.1,0.11422754923984776
+Location,Staunton Hotel B B,4.15,0.11380616312260214
+Location,Hotel Park Lane Paris,4.35,0.11360744290826033
+Location,Hotel Parc Saint Severin Esprit de France,4.55,0.11350677786172149
+Location,The Colonnade,3.9,0.11342403611088016
+Location,The Westbourne Hyde Park,4.45,0.1132712904769123
+Location,The Guesthouse Vienna,4.7,0.11298886359671921
+Location,H tel Powers,4.25,0.11297436008686619
+Location,Phileas Hotel,4.35,0.11290376324168133
+Location,Hotel Ares Eiffel,4.4,0.11278561088210508
+Location,NH Collection Barcelona Constanza,4.35,0.11268586534568534
+Location,Hotel Monsieur,4.5,0.11264634149295284
+Location,Hotel Domizil,4.45,0.11232454414272595
+Location,Novotel Suites Paris Expo Porte de Versailles,4.4,0.11223599619144031
+Location,Silken Concordia,4.1,0.11179282219381509
+Location,NH Wien City,4.2,0.11162587565940855
+Location,The Justin James Hotel,4.15,0.11137136738487026
+Location,Montfleuri,4.1,0.11136779870367769
+Location,Select Hotel,4.45,0.1111449153589025
+Location,Boscolo Milano Autograph Collection,3.95,0.1111111111111111
+Location,Vienna Marriott Hotel,4.1,0.1111111111111111
+Location,Le Relais Montmartre,4.65,0.11087848925336045
+Location,Best Western Premier Marais Grands Boulevards,4.15,0.11070831943742611
+Location,Hyatt Regency London The Churchill,4.35,0.11026315774572523
+Location,Ch teau Monfort Relais Ch teaux,4.5,0.11008490509962665
+Location,London Marriott Hotel Kensington,4.0,0.11008403490738376
+Location,H tel Baume,4.5,0.10953282719158162
+Location,Royal Saint Michel,4.0,0.10951617915315215
+Location,Best Western Nouvel Orl ans Montparnasse,4.05,0.10937500046566129
+Location,NH Amsterdam Zuid,3.9,0.10935470702719283
+Location,Hotel Casa Fuster G L Monumento,4.5,0.10833333333333332
+Location,Eurostars Embassy,4.2,0.10833333312637276
+Location,H tel Exquis by Elegancia,4.45,0.10815018300826733
+Location,Duquesa Suites Barcelona,4.55,0.10797979844338966
+Location,Golden Tulip Opera de Noailles,4.3,0.10795454545454546
+Location,Hotel Odeon Saint Germain,4.3,0.10795454545454546
+Location,Sydney House Chelsea,4.35,0.10791245836400824
+Location,Hilton Vienna Plaza,4.3,0.10785634159439743
+Location,Hotel Am Schubertring,4.1,0.1077818333474481
+Location,Best Western Hotel Pension Arenberg Wien Zentrum,3.85,0.10777243729441977
+Location,Le Cinq Codet,4.5,0.1072810449246212
+Location,Mercure Hotel Raphael Wien,4.25,0.10714285643327803
+Location,Hilton Amsterdam,4.15,0.10698641703381079
+Location,Enterprise Hotel Design Boutique,4.25,0.1064814806536392
+Location,Ten Manchester Street Hotel,4.4,0.10648107752983628
+Location,The College Hotel,4.15,0.10584415548936629
+Location,Hotel Les Bulles De Paris,4.1,0.10580659564730584
+Location,Gran Hotel La Florida,4.35,0.10565476225955145
+Location,The Lodge Hotel Putney,4.1,0.10527146396913914
+Location,Hotel Op ra Richepanse,4.6,0.1046001787679923
+Location,Andreola Central Hotel,4.15,0.1044501132393032
+Location,Petit Palace Barcelona,3.95,0.1037927352098955
+Location,The Sumner Hotel,4.25,0.10375458081781645
+Location,The Dorchester Dorchester Collection,4.55,0.10342897733731826
+Location,Adria Boutique Hotel,4.4,0.10342098468654383
+Location,Waldorf Madeleine,4.2,0.10336693425658576
+Location,Alma Barcelona GL,4.6,0.10317460427839288
+Location,The Park City Grand Plaza Kensington Hotel,4.15,0.10289389485567767
+Location,The Cranley Hotel,3.9,0.10285947770854227
+Location,Onix Liceo,4.05,0.10280430273100477
+Location,Eccleston Square Hotel,4.25,0.10251322688249054
+Location,Hotel Sans Souci Wien,4.7,0.10242003567755122
+Location,Hotel Grums Barcelona,4.15,0.1021825387068684
+Location,The Ned,4.65,0.10206834255958351
+Location,The Stafford London,4.55,0.1019580422560652
+Location,Der Wilhelmshof,4.4,0.10189393989064477
+Location,Relais H tel du Vieux Paris,4.45,0.10149711278867929
+Location,Royal Hotel Champs Elys es,3.95,0.10081411719929854
+Location,Mercure Paris Montmartre Sacr Coeur,4.2,0.10067340067340068
+Location,The Zetter Hotel,4.45,0.10046897531845868
+Location,H tel Aiglon Esprit de France,4.45,0.1004040415961333
+Location,The Athenaeum,4.05,0.10040404010601718
+Location,Hotel Imlauer Wien,4.25,0.09941123234971926
+Location,The Westin Palace,4.25,0.09902951160582675
+Location,Nottingham Place Hotel,4.1,0.09902597438076358
+Location,Grand H tel Du Palais Royal,4.6,0.09898989898989899
+Location,Hotel L Antoine,4.45,0.09866735279853679
+Location,Camperio House Suites Apartments,4.45,0.09859307338019986
+Location,Hotel du Louvre in the Unbound Collection by Hyatt,4.15,0.09854420208854038
+Location,Grand Hotel Wien,4.5,0.09853750404624682
+Location,Ohla Eixample,4.55,0.09837461971385617
+Location,Pulitzer Amsterdam,4.55,0.09836106348898029
+Location,The Arch London,4.55,0.09793320103060632
+Location,The Ring Vienna s Casual Luxury Hotel,4.5,0.09767216975573663
+Location,Pullman Barcelona Skipper,4.3,0.09766139620422487
+Location,Hotel Marignan Champs Elys es,4.35,0.09757032250928839
+Location,London Marriott Hotel County Hall,4.25,0.09722222277411707
+Location,Sofitel Legend The Grand Amsterdam,4.6,0.09722222222222222
+Location,Mercure London Hyde Park,4.3,0.09693597477969253
+Location,Aparthotel Arai 4 Superior,4.65,0.09685155197561762
+Location,Le Meridien Piccadilly,3.8,0.09644413279491794
+Location,London Marriott Hotel Grosvenor Square,3.95,0.0961431348532961
+Location,Hotel Eug ne en Ville,4.15,0.09591787361868338
+Location,Hotel Duminy Vendome,4.1,0.09564393939393939
+Location,Hotel Mademoiselle,4.3,0.09513888876471255
+Location,Ashburn Hotel,4.3,0.09510582012651615
+Location,Senator Hotel Vienna,4.05,0.09451846144370493
+Location,The Cleveland,4.1,0.09445832885039904
+Location,Acad mie H tel Saint Germain,4.5,0.09435417523652818
+Location,Villa Panth on,4.05,0.09412669921189067
+Location,Hilton London Hyde Park,3.9,0.09369565247193626
+Location,Falkensteiner Hotel Wien Margareten,4.45,0.09356060593642972
+Location,The Rookery,4.55,0.09346046265109528
+Location,The Harmonie Vienna,4.6,0.09326599342905312
+Location,Holiday Inn Amsterdam,3.85,0.09315476152631973
+Location,London Bridge Hotel,4.35,0.09298109298109299
+Location,Residence Henri IV,4.55,0.09252829700745958
+Location,Grange Langham Court Hotel,3.95,0.09204068819174663
+Location,Hotel Xenia Autograph Collection,4.5,0.09187408109063709
+Location,Small Luxury Hotel Altstadt Vienna,4.65,0.09166666600439284
+Location,Duquesa de Cardona,4.45,0.09111721906469855
+Location,Aparthotel Atenea Barcelona,4.0,0.09103396560821857
+Location,Chateau Frontenac,4.25,0.09095110158326984
+Location,Fairmont Rey Juan Carlos I,4.15,0.09090909090909091
+Location,Crowne Plaza Amsterdam South,4.5,0.09039682608748238
+Location,The Chess Hotel,4.35,0.08985928187102599
+Location,Mercure Wien Zentrum,4.15,0.0895622902245634
+Location,The Hari London,4.6,0.08933080841947083
+Location,Novotel Barcelona City,4.2,0.08884901687273125
+Location,IH Hotels Milano Watt 13,3.8,0.08883304185058166
+Location,Monument Hotel,4.65,0.08878915948211676
+Location,H tel des Champs Elys es,4.2,0.08874458849623605
+Location,Suites H tel Helzear Champs Elys es,4.1,0.08776492242339834
+Location,Hotel Milano Scala,4.4,0.08771130208590007
+Location,Hotel Beethoven Wien,4.45,0.08671536832015753
+Location,Eurostars Bcn Design,4.15,0.08665765173765139
+Location,Hotel K nig von Ungarn,4.65,0.08546296769120683
+Location,Staybridge Suites London Vauxhall,4.6,0.08479384443359177
+Location,Best Western Premier Faubourg 88,4.2,0.08474980966148409
+Location,Mercure Grand Hotel Biedermeier Wien,4.2,0.08321308321308321
+Location,H tel Brighton Esprit de France,4.35,0.08248457752721451
+Location,Hotel d Orsay Esprit de France,4.55,0.08245980295668838
+Location,Sofitel Paris Arc De Triomphe,4.4,0.08223941210180194
+Location,Canal House,4.65,0.08214285785243625
+Location,Appartement Hotel an der Riemergasse,4.6,0.08092013181315692
+Location,Catalonia La Pedrera,4.2,0.07976694525927103
+Location,NH Collection Barcelona Gran Hotel Calder n,4.4,0.07958740878549142
+Location,H tel Duo,4.3,0.07951171360862506
+Location,Palais Hansen Kempinski Vienna,4.6,0.07459706936782096
+Location,IH Hotels Milano Puccini,3.8,0.07399326623168458
+Location,Hotel The Serras,4.8,0.07177033649677295
+Location,Novotel Wien City,4.05,0.07090422100196585
+Location,Claris Hotel Spa GL,4.3,0.07070707115862104
+Location,Best Western Hotel City,4.2,0.0707070707070707
+Location,Le Marceau Bastille,4.3,0.06818181818181818
+Location,Mill sime H tel,4.65,0.06782707906453124
+Location,NYX Milan,4.4,0.06666666070620218
+Location,Le Mathurin Hotel Spa,4.3,0.06651161225572169
+Location,NH Wien Belvedere,4.2,0.06271954576617271
+Location,Crowne Plaza Paris R publique,4.0,0.06250000186264515
+Location,Castille Paris Starhotels Collezione,4.35,0.050433221408962114
+Room,Alma Barcelona GL,4.6,0.17566017316017316
+Room,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,4.2,0.1636145188286065
+Room,DO CO Hotel Vienna,4.5,0.16226012925611438
+Room,The Park Tower Knightsbridge a Luxury Collection Hotel,4.1,0.15892135466222415
+Room,Karma Sanctum Soho Hotel,4.05,0.15498094984748192
+Room,Chateau Frontenac,4.25,0.15476190465039946
+Room,Royal Hotel Champs Elys es,3.95,0.1536186753176603
+Room,H tel Powers,4.25,0.1521978619380613
+Room,Eccleston Square Hotel,4.25,0.15190623109427906
+Room,Le Meridien Piccadilly,3.8,0.15159889581509722
+Room,London Bridge Hotel,4.35,0.15120315638850537
+Room,Napoleon Paris,4.25,0.15048808060228896
+Room,AC Hotel Barcelona Forum a Marriott Lifestyle Hotel,4.05,0.1501776244490266
+Room,Gran Hotel La Florida,4.35,0.1493629055194037
+Room,Novotel Suites Paris Montreuil Vincennes,3.8,0.14816375391780995
+Room,H tel California Champs Elys es,4.1,0.14807886110652033
+Room,NYX Milan,4.4,0.14558415319503545
+Room,Forest Hill Paris la Villette,3.8,0.14461271771267117
+Room,Banke H tel,4.2,0.14451447230225462
+Room,Hotel Ambassador,4.15,0.1439884194604483
+Room,Catalonia Rigoletto,4.3,0.14317974715443219
+Room,The Dorchester Dorchester Collection,4.55,0.14236025123402868
+Room,NH Barcelona Stadium,4.05,0.14204260490772297
+Room,W London Leicester Square,4.2,0.14161732549328654
+Room,Hotel Alimara,4.05,0.14128023143999416
+Room,Sofitel Vienna Stephansdom,4.5,0.14115494339667162
+Room,NH Danube City,4.2,0.14074073963695102
+Room,The Pelham Starhotels Collezione,4.3,0.14064493311498893
+Room,Montfleuri,4.1,0.14053905747782147
+Room,La Suite West Hyde Park,4.0,0.14045985222282312
+Room,AZIMUT Hotel Vienna,4.1,0.14014886888075193
+Room,The Victoria,4.15,0.1397997222848287
+Room,Aparthotel Atenea Barcelona,4.0,0.13966503826745247
+Room,Adria Boutique Hotel,4.4,0.1395528289273744
+Room,Barcel Milan,4.05,0.1383529053564676
+Room,H tel Balzac,4.15,0.13820479235096994
+Room,Hotel Marignan Champs Elys es,4.35,0.13790908990917985
+Room,Hotel Bachaumont,4.4,0.13783202529340607
+Room,Hotel du Louvre in the Unbound Collection by Hyatt,4.15,0.13782483130938153
+Room,NH London Kensington,4.1,0.1374223854630402
+Room,Terrass H tel Montmartre by MH,4.5,0.13741997338356757
+Room,H tel Juliana Paris,4.3,0.13700187981174253
+Room,London Marriott Hotel Grosvenor Square,3.95,0.1369512661562633
+Room,Hyatt Regency London The Churchill,4.35,0.13687800911376619
+Room,Condes de Barcelona,4.35,0.13682393777456317
+Room,The Lodge Hotel Putney,4.1,0.13680169893978272
+Room,L Hotel Pergol se Paris,4.1,0.1363916780684955
+Room,InterContinental London Park Lane,4.25,0.13625591184532795
+Room,Residence Du Roy,4.2,0.136190504402308
+Room,The Westbury A Luxury Collection Hotel Mayfair London,4.1,0.1360110179364792
+Room,Sydney House Chelsea,4.35,0.13572825597918833
+Room,Hotel Amsterdam De Roode Leeuw,3.95,0.13571472149884944
+Room,Thistle Hyde Park,3.9,0.13555842132999968
+Room,Claridge s,4.65,0.1350335553296497
+Room,Novotel Wien City,4.05,0.13454154414894096
+Room,H tel D Aubusson,4.7,0.1342758051926728
+Room,Pulitzer Amsterdam,4.55,0.13402516631948913
+Room,W Amsterdam,4.2,0.13388833011641632
+Room,The Cranley Hotel,3.9,0.13385814984912645
+Room,Hotel Atmospheres,4.35,0.13347242039596846
+Room,Paddington Court Executive Rooms,3.95,0.13334857759432744
+Room,Andaz Amsterdam Prinsengracht A Hyatt Hotel,4.65,0.133330333484199
+Room,NH Collection Barcelona Constanza,4.35,0.13326815528510838
+Room,FourSide Hotel Vienna City Center,4.05,0.13312379142111141
+Room,Mercure Grand Hotel Biedermeier Wien,4.2,0.1328905958652444
+Room,Rainers Hotel Vienna,4.1,0.13259220355540374
+Room,The Rookery,4.55,0.13242590348252148
+Room,Vienna Marriott Hotel,4.1,0.1320540873026821
+Room,Amp re,4.4,0.13198097749521714
+Room,Hotel Claridge Paris,4.05,0.13133686781021345
+Room,The Colonnade,3.9,0.1312381231314002
+Room,Eurostars Embassy,4.2,0.13062691461081838
+Room,Boscolo Milano Autograph Collection,3.95,0.1306099460182525
+Room,The Soho Hotel,4.75,0.13048191444433452
+Room,Novotel Paris Vaugirard Montparnasse,3.8,0.1302172708928793
+Room,Castille Paris Starhotels Collezione,4.35,0.12975661533883864
+Room,Catalonia Diagonal Centro,4.05,0.12975106808840417
+Room,Threadneedles Autograph Collection,4.4,0.12967203702591248
+Room,The Westbourne Hyde Park,4.45,0.129472207024241
+Room,Chambiges Elys es,4.45,0.1294484015957337
+Room,Novotel London Waterloo,4.1,0.12937288656215745
+Room,Grange Langham Court Hotel,3.95,0.12925688890775983
+Room,Pullman Paris Montparnasse,4.05,0.12907672092233313
+Room,IH Hotels Milano Watt 13,3.8,0.12903415579264774
+Room,Westside Arc de Triomphe Hotel,4.05,0.12901163896335105
+Room,Grosvenor House A JW Marriott Hotel,3.95,0.12895563086750364
+Room,Hotel Miramar Barcelona GL,4.35,0.12869344336508448
+Room,Grand Hotel Wien,4.5,0.12861340661617174
+Room,Mercure Paris Montmartre Sacr Coeur,4.2,0.12837738597274853
+Room,InterContinental Paris Le Grand,4.4,0.1282847739058966
+Room,Grange Blooms Hotel,4.15,0.12773343957898967
+Room,Hotel Les Bulles De Paris,4.1,0.12739093138642107
+Room,Holiday Inn Amsterdam,3.85,0.12699041903095842
+Room,Sofitel Legend The Grand Amsterdam,4.6,0.12663783233392195
+Room,Villa Panth on,4.05,0.1262676878800277
+Room,Best Western S vres Montparnasse,3.9,0.12616251245456586
+Room,H tel Exquis by Elegancia,4.45,0.12565155558429764
+Room,Best Western Bretagne Montparnasse,3.85,0.12514690230905082
+Room,Mercure Hotel Amsterdam Centre Canal District,4.1,0.12506760011826387
+Room,Albus Hotel Amsterdam City Centre,4.1,0.125
+Room,Shaftesbury Suites London Marble Arch,4.05,0.12482707226238154
+Room,NH Collection Barcelona Gran Hotel Calder n,4.4,0.1247628164521839
+Room,Fairmont Rey Juan Carlos I,4.15,0.12461256163556887
+Room,Best Western Hotel St George,4.05,0.12455250271193317
+Room,Falkensteiner Hotel Wien Margareten,4.45,0.12454782905976074
+Room,Senator Hotel Vienna,4.05,0.12438795180565795
+Room,Acad mie H tel Saint Germain,4.5,0.1243091707912933
+Room,London Marriott Hotel Kensington,4.0,0.12430671743100286
+Room,The Chess Hotel,4.35,0.12425011209645966
+Room,Silken Gran Hotel Havana,4.25,0.12415893870469721
+Room,Hilton London Hyde Park,3.9,0.12414302922299364
+Room,Novotel Suites Paris Expo Porte de Versailles,4.4,0.12378932062165408
+Room,Hilton Amsterdam,4.15,0.12333680040772155
+Room,Best Western Premier Kapital Op ra,4.45,0.1232452383641252
+Room,Gardette Park Hotel,4.1,0.12321893893863026
+Room,Ten Manchester Street Hotel,4.4,0.12310527700834144
+Room,H tel des Champs Elys es,4.2,0.12299907577629186
+Room,H tel Duo,4.3,0.1228467025259633
+Room,Eurostars Monumental,4.15,0.12276086731524004
+Room,Hotel Eug ne en Ville,4.15,0.12268016712964723
+Room,Room Mate Carla,4.45,0.1225828994602322
+Room,Hotel Principe Di Savoia,4.55,0.12255453672691022
+Room,Hotel Imlauer Wien,4.25,0.12225893500637756
+Room,Vincci Gala,4.45,0.12224382148408805
+Room,Duquesa de Cardona,4.45,0.12220987896995975
+Room,Hotel Park Lane Paris,4.35,0.12196695321237695
+Room,Villa Beaumarchais,4.05,0.12190099370761269
+Room,Knightsbridge Hotel,4.55,0.12185491007709721
+Room,Hotel Roemer Amsterdam,4.15,0.1217058705325915
+Room,Hotel Xenia Autograph Collection,4.5,0.1216791589696348
+Room,The Westin Palace,4.25,0.12137094734055805
+Room,Sofitel Paris Arc De Triomphe,4.4,0.12118061346954859
+Room,Attica 21 Barcelona Mar,4.05,0.12116029138527698
+Room,Imperial Riding School Renaissance Vienna Hotel,4.05,0.1210840186445985
+Room,NH Amsterdam Museum Quarter,4.0,0.12105378264941008
+Room,The Laslett,4.45,0.12089605003838665
+Room,Newhotel Roblin,4.4,0.12087458726845529
+Room,H tel Brighton Esprit de France,4.35,0.1206189217745358
+Room,Gallery Hotel,4.55,0.120527539097881
+Room,Crowne Plaza Paris R publique,4.0,0.12040638774968228
+Room,The Stafford London,4.55,0.12040399664055736
+Room,Novotel Paris Centre Gare Montparnasse,4.05,0.12031724952931093
+Room,Palais Hansen Kempinski Vienna,4.6,0.12017138593556204
+Room,Hotel Villa Emilia,4.55,0.12014694645382847
+Room,The Justin James Hotel,4.15,0.1201446142748103
+Room,The College Hotel,4.15,0.1201258750927332
+Room,Avo Hotel,4.05,0.119738045803579
+Room,Crowne Plaza London The City,4.3,0.11955513216761157
+Room,Hotel Odeon Saint Germain,4.3,0.11953633840064518
+Room,Nottingham Place Hotel,4.1,0.11943909479366505
+Room,The Park City Grand Plaza Kensington Hotel,4.15,0.11939985736100656
+Room,Hotel Topazz,4.35,0.11933136639863169
+Room,Park Plaza London Park Royal,4.45,0.11927607491813509
+Room,Hotel Am Konzerthaus Vienna MGallery by Sofitel,4.3,0.1192455390664907
+Room,Pullman Paris Centre Bercy,4.35,0.11910505961772318
+Room,Hotel Am Schubertring,4.1,0.11903106961252148
+Room,Suites H tel Helzear Champs Elys es,4.1,0.11895087076217532
+Room,IH Hotels Milano Puccini,3.8,0.11890407831380598
+Room,Courthouse Hotel Shoreditch,4.45,0.11879966988995512
+Room,Mercure Wien Zentrum,4.15,0.11868726898738327
+Room,H tel Aiglon Esprit de France,4.45,0.11866347330013009
+Room,The Gates Diagonal Barcelona,4.0,0.11847582531507825
+Room,9Hotel Republique,4.4,0.11840417964285602
+Room,Novotel Paris Centre Bercy,4.15,0.11822930670648084
+Room,The Beaufort,4.4,0.1180682910529602
+Room,Golden Tulip Bercy Gare de Lyon 209,4.35,0.11805120598190594
+Room,The Yard Milano,4.6,0.1180440985208655
+Room,Canal House,4.65,0.11801697598834433
+Room,Catalonia La Pedrera,4.2,0.11785706414155009
+Room,Hotel Indigo London Paddington,4.35,0.11778187318881889
+Room,Radisson Blu Style Hotel Vienna,4.2,0.11774237199643278
+Room,Le Burgundy Paris,4.55,0.11772445671140733
+Room,Hotel The Serras,4.8,0.11766140898625506
+Room,Pullman Barcelona Skipper,4.3,0.11758808274425235
+Room,Waldorf Madeleine,4.2,0.11755659016064435
+Room,Royal Saint Michel,4.0,0.11755067812745751
+Room,Au Manoir Saint Germain,4.3,0.11752889834516575
+Room,Andreola Central Hotel,4.15,0.11740839530577954
+Room,Hotel Lam e,4.35,0.11721337074059385
+Room,Novotel Barcelona City,4.2,0.11718751469514241
+Room,Hotel Barcelona Center,4.2,0.11705278989374224
+Room,NH Amsterdam Zuid,3.9,0.1170071787878029
+Room,Duquesa Suites Barcelona,4.55,0.1168234956094786
+Room,Best Western Hotel Pension Arenberg Wien Zentrum,3.85,0.11680271381451478
+Room,11 Cadogan Gardens,4.35,0.11665328748508091
+Room,Hotel Grums Barcelona,4.15,0.11657764311403607
+Room,Hotel Mademoiselle,4.3,0.11650961359129797
+Room,H tel Beauchamps,4.05,0.11642354505663889
+Room,Hotel Galileo,3.95,0.11614145930234082
+Room,Kensington House Hotel,4.1,0.11577112151668636
+Room,NH Amsterdam Caransa,3.95,0.11574154683834871
+Room,Courtyard by Marriott Vienna Prater Messe,4.35,0.11573538001687807
+Room,Oceania Paris Porte De Versailles,4.1,0.11564580761313058
+Room,NH Wien Belvedere,4.2,0.1155711464973651
+Room,Crowne Plaza Amsterdam South,4.5,0.11555314989644742
+Room,Hotel Duminy Vendome,4.1,0.11549894245346973
+Room,Phileas Hotel,4.35,0.11548783354221774
+Room,Hazlitt s,4.5,0.11527758782974461
+Room,Hotel Monsieur,4.5,0.11506241474813901
+Room,Elys es R gencia,4.1,0.11492470279706563
+Room,H tel Mathis Elys es,4.35,0.11487633166162414
+Room,Eurostars Bcn Design,4.15,0.11464835382635714
+Room,Best Western Premier Faubourg 88,4.2,0.11429919745901436
+Room,Best Western Premier Louvre Saint Honor ,4.05,0.11423587587740244
+Room,Cram,4.25,0.11392646551758291
+Room,Grange White Hall Hotel,3.95,0.1138441858060396
+Room,The Cleveland,4.1,0.11381097071323645
+Room,Le Cinq Codet,4.5,0.11380303761979896
+Room,Claris Hotel Spa GL,4.3,0.11362725443520363
+Room,H tel Horset Op ra Best Western Premier Collection,4.25,0.11350087656628056
+Room,The Sumner Hotel,4.25,0.11344783727536478
+Room,Catalonia Port,4.4,0.11326666620051037
+Room,UNA Hotel Cusani,4.4,0.1131415102395342
+Room,H10 Universitat,4.25,0.11301529252462497
+Room,Ch teau Monfort Relais Ch teaux,4.5,0.11300685836697409
+Room,Grand H tel Du Palais Royal,4.6,0.11296027428501769
+Room,Monument Hotel,4.65,0.11262014320398815
+Room,Hotel Op ra Richepanse,4.6,0.11256403129473627
+Room,Tryp Barcelona Apolo Hotel,3.9,0.11245489970725611
+Room,The Athenaeum,4.05,0.11243944647848352
+Room,U232 Hotel,4.35,0.11240381082854611
+Room,The Hari London,4.6,0.11238946197332648
+Room,Holiday Inn Amsterdam Arena Towers,4.2,0.1123002521426161
+Room,Best Western Hotel City,4.2,0.11212166399232804
+Room,Onix Liceo,4.05,0.11173123524828774
+Room,NH Wien City,4.2,0.11128004478395419
+Room,H tel Diva Opera,4.15,0.1112167102355748
+Room,Sina De La Ville,4.1,0.1111111111111111
+Room,Edouard 7 Paris Op ra,4.55,0.1110488467751306
+Room,The Arch London,4.55,0.11095309496174326
+Room,Best Western Premier Marais Grands Boulevards,4.15,0.11090206866832743
+Room,Best Western Nouvel Orl ans Montparnasse,4.05,0.1108006904713709
+Room,Holiday Inn Paris Saint Germain des Pr s,4.05,0.11079718501906846
+Room,Hotel Sans Souci Wien,4.7,0.11050515012511565
+Room,H10 Casanova,4.3,0.11039870684866564
+Room,The Ned,4.65,0.11028924231160457
+Room,H tel Baume,4.5,0.1102244919871168
+Room,The Zetter Hotel,4.45,0.11012262143243243
+Room,Hotel Casa Fuster G L Monumento,4.5,0.11006799649620685
+Room,Petit Palace Barcelona,3.95,0.10992301479185536
+Room,Golden Tulip Opera de Noailles,4.3,0.10975229709530131
+Room,The Ring Vienna s Casual Luxury Hotel,4.5,0.10968652840069232
+Room,Grand Hotel Saint Michel,4.4,0.10964514337373826
+Room,Ashburn Hotel,4.3,0.10913596429796207
+Room,Bentley London,4.2,0.10910419785105685
+Room,K K Palais Hotel,4.3,0.10878476371033054
+Room,Hilton Vienna Plaza,4.3,0.10862095216639478
+Room,Der Wilhelmshof,4.4,0.10855882714315941
+Room,The Academy,3.9,0.10853860833188902
+Room,Carlyle Brera Hotel,4.1,0.10841981502671617
+Room,Staunton Hotel B B,4.15,0.10754600917278169
+Room,Qualys Hotel Nasco,4.1,0.10739278757747948
+Room,Appartement Hotel an der Riemergasse,4.6,0.10738648218070539
+Room,Hotel Moonlight,4.5,0.10715536856362579
+Room,Les Jardins Du Marais,4.05,0.10692966375046892
+Room,Mercure London Hyde Park,4.3,0.10682780900473524
+Room,Hotel Beethoven Wien,4.45,0.10674642331648446
+Room,The Harmonie Vienna,4.6,0.10666776119240273
+Room,Residence Henri IV,4.55,0.10603204701823643
+Room,Room Mate Anna,4.55,0.10585000311989064
+Room,Le Mathurin Hotel Spa,4.3,0.1058418824917685
+Room,Hotel Pulitzer Paris,4.2,0.10577913399455363
+Room,COQ Hotel Paris,4.5,0.10491253040784077
+Room,Hotel Milano Scala,4.4,0.10488091140388249
+Room,Silken Concordia,4.1,0.10470850388306176
+Room,Hotel Barcelona Universal,4.4,0.10451648170460721
+Room,Fleming s Conference Hotel Wien,4.25,0.10445286099978539
+Room,Hotel d Orsay Esprit de France,4.55,0.1043385865748826
+Room,Mill sime H tel,4.65,0.10394959786114497
+Room,Aparthotel Arai 4 Superior,4.65,0.10375902277495909
+Room,Das Opernring Hotel,4.45,0.10351436628941933
+Room,Pertschy Palais Hotel,4.05,0.10344934312005952
+Room,Enterprise Hotel Design Boutique,4.25,0.10278405134080819
+Room,Saint SHERMIN bed breakfast champagne,4.5,0.10221345183203107
+Room,Hotel Trianon Rive Gauche,4.1,0.10132536586959832
+Room,London Marriott Hotel County Hall,4.25,0.1008496929370538
+Room,Hotel K nig von Ungarn,4.65,0.10084446892616855
+Room,The Guesthouse Vienna,4.7,0.10020998756682296
+Room,Hotel Ares Eiffel,4.4,0.10019035026752758
+Room,Element Amsterdam,4.45,0.10010898104228022
+Room,Acca Palace,4.25,0.09982164898633189
+Room,Hotel Marconi,4.15,0.09931007774823024
+Room,Luxury Suites Amsterdam,4.65,0.09906952917449748
+Room,Ohla Eixample,4.55,0.09882280780718382
+Room,Select Hotel,4.45,0.09840869084823649
+Room,The Mirror Barcelona,4.3,0.09837365303676175
+Room,Small Luxury Hotel Altstadt Vienna,4.65,0.0983386841893967
+Room,Staybridge Suites London Vauxhall,4.6,0.09802530702559839
+Room,Relais H tel du Vieux Paris,4.45,0.09750722383125769
+Room,H tel Gustave,4.4,0.09716149718887308
+Room,Hotel Auriga,4.1,0.09712599222732696
+Room,Hotel le Lapin Blanc,4.55,0.0968739488454015
+Room,Alma Boutique Hotel,4.35,0.0966018870355643
+Room,H tel du Minist re,4.4,0.09529750130635192
+Room,Sixtytwo Hotel,4.6,0.0945679141552627
+Room,Le Relais Montmartre,4.65,0.09381442307663299
+Room,Camperio House Suites Apartments,4.45,0.09346838602359092
+Room,Mercure Hotel Raphael Wien,4.25,0.08985336086263322
+Room,Hotel Domizil,4.45,0.08977736689318355
+Room,Le Marceau Bastille,4.3,0.08712650491211311
+Room,Hotel Parc Saint Severin Esprit de France,4.55,0.08628977871051842
+Room,H tel Etoile Saint Honor by Happyculture,4.1,0.08415119388336179
+Room,Hotel L Antoine,4.45,0.08343996158894965
+Staff,Falkensteiner Hotel Wien Margareten,4.45,0.25
+Staff,Acca Palace,4.25,0.2
+Staff,H10 Casanova,4.3,0.2
+Staff,Hilton Vienna Plaza,4.3,0.2
+Staff,Hotel Sans Souci Wien,4.7,0.2
+Staff,Hotel Villa Emilia,4.55,0.2
+Staff,NH Wien City,4.2,0.2
+Staff,Best Western S vres Montparnasse,3.9,0.18333333333333335
+Staff,W Amsterdam,4.2,0.17142857142857143
+Staff,Banke H tel,4.2,0.16666666666666666
+Staff,COQ Hotel Paris,4.5,0.16666666666666666
+Staff,Der Wilhelmshof,4.4,0.16666666666666666
+Staff,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,4.2,0.16666666666666666
+Staff,The Park City Grand Plaza Kensington Hotel,4.15,0.16666666666666666
+Staff,The Yard Milano,4.6,0.16666666666666666
+Staff,Hilton London Hyde Park,3.9,0.15555555555555556
+Staff,Mill sime H tel,4.65,0.15555555555555556
+Staff,Staybridge Suites London Vauxhall,4.6,0.15079365079365079
+Staff,Park Plaza London Park Royal,4.45,0.14722222222222223
+Staff,Napoleon Paris,4.25,0.14545454545454545
+Staff,Mercure Paris Montmartre Sacr Coeur,4.2,0.14484126984126985
+Staff,Boscolo Milano Autograph Collection,3.95,0.14285714285714285
+Staff,H tel du Minist re,4.4,0.14285714285714285
+Staff,Hotel Mademoiselle,4.3,0.14285714285714285
+Staff,Hotel Park Lane Paris,4.35,0.14285714285714285
+Staff,Le Marceau Bastille,4.3,0.14285714285714285
+Staff,NH Collection Barcelona Gran Hotel Calder n,4.4,0.14285714285714285
+Staff,Saint SHERMIN bed breakfast champagne,4.5,0.14285714285714285
+Staff,Shaftesbury Suites London Marble Arch,4.05,0.14285714285714285
+Staff,Best Western Bretagne Montparnasse,3.85,0.14166666666666666
+Staff,Grand Hotel Wien,4.5,0.13997821350762527
+Staff,The Pelham Starhotels Collezione,4.3,0.1388888888888889
+Staff,Best Western Premier Faubourg 88,4.2,0.13846153846153847
+Staff,Pullman Paris Centre Bercy,4.35,0.13432539682539682
+Staff,Hotel Xenia Autograph Collection,4.5,0.13142857228006635
+Staff,Acad mie H tel Saint Germain,4.5,0.125
+Staff,Amp re,4.4,0.125
+Staff,Camperio House Suites Apartments,4.45,0.125
+Staff,Ch teau Monfort Relais Ch teaux,4.5,0.125
+Staff,Cram,4.25,0.125
+Staff,Eurostars Bcn Design,4.15,0.125
+Staff,Fleming s Conference Hotel Wien,4.25,0.125
+Staff,Grange Blooms Hotel,4.15,0.125
+Staff,H tel Juliana Paris,4.3,0.125
+Staff,Hotel K nig von Ungarn,4.65,0.125
+Staff,Hotel Trianon Rive Gauche,4.1,0.125
+Staff,Hyatt Regency London The Churchill,4.35,0.125
+Staff,Le Mathurin Hotel Spa,4.3,0.125
+Staff,Mercure Wien Zentrum,4.15,0.125
+Staff,Novotel Suites Paris Montreuil Vincennes,3.8,0.125
+Staff,Pertschy Palais Hotel,4.05,0.125
+Staff,Silken Concordia,4.1,0.125
+Staff,The Dorchester Dorchester Collection,4.55,0.125
+Staff,The Ring Vienna s Casual Luxury Hotel,4.5,0.125
+Staff,The Stafford London,4.55,0.125
+Staff,H tel D Aubusson,4.7,0.12271127489556775
+Staff,The Athenaeum,4.05,0.12128612183801614
+Staff,Appartement Hotel an der Riemergasse,4.6,0.12037037037037036
+Staff,Hotel L Antoine,4.45,0.12034631966899484
+Staff,H tel Duo,4.3,0.11754386069481833
+Staff,Oceania Paris Porte De Versailles,4.1,0.11688311688311688
+Staff,UNA Hotel Cusani,4.4,0.11688311688311688
+Staff,London Marriott Hotel Grosvenor Square,3.95,0.11354813696990101
+Staff,The Zetter Hotel,4.45,0.11309523809523808
+Staff,W London Leicester Square,4.2,0.11309523809523808
+Staff,Golden Tulip Bercy Gare de Lyon 209,4.35,0.11274509979229347
+Staff,Small Luxury Hotel Altstadt Vienna,4.65,0.11274509891575457
+Staff,NH Wien Belvedere,4.2,0.11198830492140954
+Staff,Villa Panth on,4.05,0.1114024864024864
+Staff,11 Cadogan Gardens,4.35,0.1111111111111111
+Staff,Bentley London,4.2,0.1111111111111111
+Staff,Best Western Hotel St George,4.05,0.1111111111111111
+Staff,Claridge s,4.65,0.1111111111111111
+Staff,H tel Aiglon Esprit de France,4.45,0.1111111111111111
+Staff,Hotel Am Schubertring,4.1,0.1111111111111111
+Staff,Hotel Ambassador,4.15,0.1111111111111111
+Staff,Hotel Topazz,4.35,0.1111111111111111
+Staff,Imperial Riding School Renaissance Vienna Hotel,4.05,0.1111111111111111
+Staff,Knightsbridge Hotel,4.55,0.1111111111111111
+Staff,NH Amsterdam Caransa,3.95,0.1111111111111111
+Staff,NH Amsterdam Zuid,3.9,0.1111111111111111
+Staff,Nottingham Place Hotel,4.1,0.1111111111111111
+Staff,Novotel London Waterloo,4.1,0.1111111111111111
+Staff,Novotel Paris Centre Bercy,4.15,0.1111111111111111
+Staff,Ohla Eixample,4.55,0.1111111111111111
+Staff,Sofitel Legend The Grand Amsterdam,4.6,0.1111111111111111
+Staff,The Arch London,4.55,0.1111111111111111
+Staff,The College Hotel,4.15,0.1111111111111111
+Staff,The Cranley Hotel,3.9,0.1111111111111111
+Staff,The Rookery,4.55,0.1111111111111111
+Staff,Crowne Plaza Paris R publique,4.0,0.10989010989010989
+Staff,Novotel Barcelona City,4.2,0.10985155143396735
+Staff,DO CO Hotel Vienna,4.5,0.10873015873015873
+Staff,Grand H tel Du Palais Royal,4.6,0.10685331767725549
+Staff,Grosvenor House A JW Marriott Hotel,3.95,0.10634920634920635
+Staff,Tryp Barcelona Apolo Hotel,3.9,0.10555555555555556
+Staff,Duquesa Suites Barcelona,4.55,0.10555555406543943
+Staff,InterContinental London Park Lane,4.25,0.10416666666666666
+Staff,Radisson Blu Style Hotel Vienna,4.2,0.1026785686346037
+Staff,IH Hotels Milano Watt 13,3.8,0.10158730295915452
+Staff,The Gates Diagonal Barcelona,4.0,0.10096153846153846
+Staff,Sofitel Paris Arc De Triomphe,4.4,0.10000000149011612
+Staff,Au Manoir Saint Germain,4.3,0.1
+Staff,Best Western Nouvel Orl ans Montparnasse,4.05,0.1
+Staff,Eccleston Square Hotel,4.25,0.1
+Staff,Hotel Claridge Paris,4.05,0.1
+Staff,Hotel Moonlight,4.5,0.1
+Staff,Hotel Op ra Richepanse,4.6,0.1
+Staff,Le Relais Montmartre,4.65,0.1
+Staff,The Victoria,4.15,0.1
+Staff,Hotel du Louvre in the Unbound Collection by Hyatt,4.15,0.09947090002279434
+Staff,Elys es R gencia,4.1,0.09874099181430891
+Staff,The Beaufort,4.4,0.09821428677865437
+Staff,Adria Boutique Hotel,4.4,0.09722222222222221
+Staff,Grange Langham Court Hotel,3.95,0.09722222222222221
+Staff,IH Hotels Milano Puccini,3.8,0.09722222222222221
+Staff,The Justin James Hotel,4.15,0.09722222222222221
+Staff,Vienna Marriott Hotel,4.1,0.09545454545454546
+Staff,NH Amsterdam Museum Quarter,4.0,0.09497076054762679
+Staff,Claris Hotel Spa GL,4.3,0.09474206242769484
+Staff,Hotel The Serras,4.8,0.09316770056760089
+Staff,Gardette Park Hotel,4.1,0.09090909632769498
+Staff,Enterprise Hotel Design Boutique,4.25,0.09090909090909091
+Staff,Hilton Amsterdam,4.15,0.08986569093005853
+Staff,The Park Tower Knightsbridge a Luxury Collection Hotel,4.1,0.08888888888888889
+Staff,H tel Mathis Elys es,4.35,0.08866995073891626
+Staff,Westside Arc de Triomphe Hotel,4.05,0.08854166625274552
+Staff,Hotel Galileo,3.95,0.08844696793592338
+Staff,The Westbury A Luxury Collection Hotel Mayfair London,4.1,0.08786999534472012
+Staff,Best Western Premier Marais Grands Boulevards,4.15,0.08691553486058795
+Staff,Edouard 7 Paris Op ra,4.55,0.08680555648687813
+Staff,Barcel Milan,4.05,0.08630952451910291
+Staff,Le Burgundy Paris,4.55,0.08507914474195105
+Staff,Les Jardins Du Marais,4.05,0.08496731938489901
+Staff,Hotel Miramar Barcelona GL,4.35,0.08485155066980525
+Staff,Novotel Paris Centre Gare Montparnasse,4.05,0.08391608391608392
+Staff,Alma Barcelona GL,4.6,0.08333333532015483
+Staff,Attica 21 Barcelona Mar,4.05,0.08333333333333333
+Staff,Catalonia Port,4.4,0.08333333333333333
+Staff,Condes de Barcelona,4.35,0.08333333333333333
+Staff,Eurostars Monumental,4.15,0.08333333333333333
+Staff,Gallery Hotel,4.55,0.08333333333333333
+Staff,H tel Beauchamps,4.05,0.08333333333333333
+Staff,Hotel Alimara,4.05,0.08333333333333333
+Staff,Hotel Am Konzerthaus Vienna MGallery by Sofitel,4.3,0.08333333333333333
+Staff,Hotel Auriga,4.1,0.08333333333333333
+Staff,Hotel Barcelona Universal,4.4,0.08333333333333333
+Staff,London Marriott Hotel Kensington,4.0,0.08333333333333333
+Staff,Novotel Wien City,4.05,0.08333333333333333
+Staff,Onix Liceo,4.05,0.08333333333333333
+Staff,Residence Du Roy,4.2,0.08333333333333333
+Staff,The Academy,3.9,0.08333333333333333
+Staff,Catalonia Rigoletto,4.3,0.08309990827108965
+Staff,Newhotel Roblin,4.4,0.08273809552192687
+Staff,Hotel Principe Di Savoia,4.55,0.08219298214243169
+Staff,Fairmont Rey Juan Carlos I,4.15,0.08187134502923976
+Staff,The Soho Hotel,4.75,0.08187134424496811
+Staff,Pullman Paris Montparnasse,4.05,0.08119658126026137
+Staff,The Guesthouse Vienna,4.7,0.08055555481049749
+Staff,Element Amsterdam,4.45,0.078125
+Staff,Luxury Suites Amsterdam,4.65,0.0773809545096897
+Staff,Forest Hill Paris la Villette,3.8,0.07692308150804959
+Staff,Room Mate Anna,4.55,0.07692307921556327
+Staff,Thistle Hyde Park,3.9,0.07692307692307693
+Staff,The Ned,4.65,0.07670454545454546
+Staff,K K Palais Hotel,4.3,0.07177033571250131
+Staff,Hotel Atmospheres,4.35,0.07142857568604606
+Staff,Hotel Bachaumont,4.4,0.07142857568604606
+Staff,Hotel Beethoven Wien,4.45,0.07142857355730874
+Staff,Gran Hotel La Florida,4.35,0.07142856929983411
+Staff,NH London Kensington,4.1,0.07142856929983411
+Staff,Le Cinq Codet,4.5,0.07083333333333333
+Staff,NYX Milan,4.4,0.06696428252117975
+Staff,The Colonnade,3.9,0.06666666865348816
+Staff,H tel Powers,4.25,0.06666666666666667
+Staff,Hotel Roemer Amsterdam,4.15,0.06666666070620218
+Staff,H tel Balzac,4.15,0.06439393939393939
+Staff,The Cleveland,4.1,0.0625000037252903
+Staff,Das Opernring Hotel,4.45,0.0625
+Staff,Aparthotel Atenea Barcelona,4.0,0.058823529411764705
+Staff,H tel Exquis by Elegancia,4.45,0.05625000055879355
+Staff,Vincci Gala,4.45,0.055555557211240135
+Staff,Senator Hotel Vienna,4.05,0.05555555555555555
+Staff,Karma Sanctum Soho Hotel,4.05,0.055555550588501826
+Staff,NH Collection Barcelona Constanza,4.35,0.055555550588501826
+Staff,Aparthotel Arai 4 Superior,4.65,0.05263157737882514
+Staff,Hotel Domizil,4.45,0.052631575810281855
+Staff,Sixtytwo Hotel,4.6,0.051529790108330586
+Staff,Hotel Odeon Saint Germain,4.3,0.05000000298023224
+Staff,Grange White Hall Hotel,3.95,0.05000000149011612
+Staff,Andaz Amsterdam Prinsengracht A Hyatt Hotel,4.65,0.04999999850988388
+Staff,Canal House,4.65,0.04999999701976776
+Staff,Chambiges Elys es,4.45,0.04791666815678279
+Staff,H tel Brighton Esprit de France,4.35,0.04761904903820583
+Staff,Best Western Premier Kapital Op ra,4.45,0.0476190447807312
+Staff,Hotel Marignan Champs Elys es,4.35,0.047149122022745904
+Staff,Crowne Plaza Amsterdam South,4.5,0.04545454680919647
+Staff,Holiday Inn Paris Saint Germain des Pr s,4.05,0.04545454409989444
+Staff,La Suite West Hyde Park,4.0,0.04545454409989444
+Staff,Terrass H tel Montmartre by MH,4.5,0.04545454409989444
+Staff,Alma Boutique Hotel,4.35,0.04347826346107151
+Staff,Crowne Plaza London The City,4.3,0.04347826346107151
+Staff,Pulitzer Amsterdam,4.55,0.039999998807907104
+Staff,InterContinental Paris Le Grand,4.4,0.03999999761581421
+Staff,Pullman Barcelona Skipper,4.3,0.038461540754024796
+Staff,Chateau Frontenac,4.25,0.03846153903466005
+Staff,The Laslett,4.45,0.03124999813735485

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Hotel Recommender </title>
+    <link href="./style.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class = 'head' > 
+        <header class = "heading" > 
+            <h1 class = 'hotel-heading'> Hotel Recommender </h1>
+        </header>
+    </div>
+    <div class="grid-container">
+        <div class="dropdown-container">
+          <div class="dropdown">
+            <label for="preference1">Preference 1:</label>
+            <select id="preference1" name="preference1">
+              <option value="Select">Select</option>
+              <option value="Amenities">Amenities</option>
+              <option value="Food">Food</option>
+              <option value="Location">Location</option>
+              <option value="Room">Room</option>
+              <option value="Staff">Staff</option>
+            </select>
+          </div>
+      
+          <div class="dropdown">
+            <label for="preference2">Preference 2:</label>
+            <select id="preference2" name="preference2">
+              <option value="None">None</option>
+              <option value="Amenities">Amenities</option>
+              <option value="Food">Food</option>
+              <option value="Location">Location</option>
+              <option value="Room">Room</option>
+              <option value="Staff">Staff</option>
+            </select>
+          </div>
+      
+          <div class="dropdown">
+            <label for="preference3">Preference 3:</label>
+            <select id="preference3" name="preference3">
+              <option value="None">None</option>
+              <option value="Amenities">Amenities</option>
+              <option value="Food">Food</option>
+              <option value="Location">Location</option>
+              <option value="Room">Room</option>
+              <option value="Staff">Staff</option>
+            </select>
+          </div>
+        </div>
+        <div class="submit-container">
+            <button class="button button1">Search</button>
+        </div>   
+    </div>  
+    <div class="card-container">
+        <div class="card u-clearfix">
+            <div class="card-body">
+                <span class="card-number card-circle subtle"> 01</span>
+                <span class="card-author subtle"></span>
+                <h3 class="card-title"> </h3>
+                <span class="card-rating subtle"></span>
+                <!-- <div class="card-read">Read</div> -->
+                <!-- <span class="card-tag card-circle subtle">C</span> -->
+            </div>
+        </div>
+    </div>  
+    <script src = "./app.js"> </script>
+</body>
+</html>
